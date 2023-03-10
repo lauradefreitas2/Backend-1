@@ -1,0 +1,4 @@
+João;Silva;2334340232;5000.0
+Márcia;Oliveira;5423223443;12000.0
+Gisele;Braga;3421323322;2500.0
+Carlos;Motta;8322312324;8000.0
